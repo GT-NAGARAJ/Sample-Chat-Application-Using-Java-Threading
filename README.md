@@ -1,12 +1,15 @@
 # Sample-Chat-Application-Using-Java-Threading
 Sample Chat Application Using Java Threading
 
-![Screenshot 2025-04-27 182050](https://github.com/user-attachments/assets/7b78c468-f9e6-4b7f-9d6e-4ac20c8ef256)
-![Screenshot 2025-04-27 182239](https://github.com/user-attachments/assets/7fcf91eb-0231-4044-a4f8-a34ddb3c081d)
+
+
 ![Screenshot 2025-04-27 181434](https://github.com/user-attachments/assets/5b0678d9-832e-4946-919b-7fc8fcf0d6f1)
+
 ![Screenshot 2025-04-27 181731](https://github.com/user-attachments/assets/519d2d33-4fa4-4025-8587-eedbadb2b0d5)
 
+![Screenshot 2025-04-27 182050](https://github.com/user-attachments/assets/7b78c468-f9e6-4b7f-9d6e-4ac20c8ef256)
 
+![Screenshot 2025-04-27 182239](https://github.com/user-attachments/assets/7fcf91eb-0231-4044-a4f8-a34ddb3c081d)
 # Multi-Threaded Chat Server and Client
 
 This project demonstrates a simple chat application in Java, focusing on multithreading concepts. The server handles multiple clients concurrently using threads, allowing real-time message broadcasting. The client features a basic graphical user interface (GUI) for user interaction.
